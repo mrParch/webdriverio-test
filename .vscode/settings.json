@@ -1,0 +1,12 @@
+{
+    "cucumberautocomplete.steps": [
+        "./test/step_definitions/**/*.js"
+    ],
+    "cucumberautocomplete.syncfeatures": "./test/features/**/*.feature",
+    "cucumberautocomplete.strictGherkinCompletion": true,
+    "git.ignoreLimitWarning": true,
+    "eslint.autoFixOnSave": true,
+    "eslint.alwaysShowStatus": true,
+    "workbench.editor.enablePreview": false,
+    "typescript.surveys.enabled": false,
+}

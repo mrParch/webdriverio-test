@@ -1,0 +1,3 @@
+node_modules
+test/reports/html/*.html
+test/reports/json/tmp/*.json
