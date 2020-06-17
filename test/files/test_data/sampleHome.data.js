@@ -1,4 +1,4 @@
-module.exports = {
+export default {
     'url': 'http://v4.webdriver.io/',
     'getStartedSearchQuery' : 'Get Started',
     'specialCharacters': '!!@@££',
