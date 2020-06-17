@@ -1,6 +1,7 @@
 export class Sidebar {
-    get root() {
-        return $('div.sidebar');
+    
+    constructor(root) {
+        this.root = root;
     }
 
     get header() {

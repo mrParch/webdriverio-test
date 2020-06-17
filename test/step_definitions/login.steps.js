@@ -4,6 +4,7 @@ import StartPage from '../pages/start.page.js';
 import LoginPage from '../pages/login.page.js';
 import MainPage from '../pages/main.page.js';
 
+//TO DO: move secrets to .env
 Given(/^I log into the app$/, () => {
     browser.url('https://todo.microsoft.com/tasks/');
     StartPage.startBtn.click();
